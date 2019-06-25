@@ -1,0 +1,5 @@
+| objects | messages |
+| ------- | ----------- |
+| _Person_|_____________|
+| __Bike__|_Bike_status_|
+| Docking_|_Bike_release_|
